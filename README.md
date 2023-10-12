@@ -60,7 +60,7 @@ Provide code
 examples or instructions on how to use your API.
 **example:**
 open POSTMAN then type **localhost/api/public/postPrint** select the method **GET**
-# localhost/api/public/ - this is the path where I store the source code for my API
+**localhost/api/public/ - this is the path where I store the source code for my API**
 **The Reponse should be the content of your DATABASE**
  
 ## License
