@@ -4,7 +4,7 @@ API Demo
 # Brief Description
 This is a simple RESTful API built with PHP and the Slim framework for interacting with a 
 MySQL database. It provides endpoints for creating, reading, updating, and deleting records in a database table named "names."
- 
+
 ## API Endpoints
 **GET /getName/{fname}/{lname}**
 **Function:** Retrieve a greeting message that includes a user's first name and last name.
