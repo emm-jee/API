@@ -68,8 +68,10 @@ The code does not include a specific license declaration.
 
 
 ## Contributors
-
-
+This project utilize powerful libraries and frameworks to bring its functionality to life:
+Slim Framework: A lightweight yet robust PHP micro-framework for handling HTTP requests and routing.
+PDO (PHP Data Objects): The PHP extension that enables seamless database interactions, used here for MySQL connectivity.
+Psr\Http Message Interfaces: Essential PHP interfaces for working with HTTP requests and responses.
 
 ## Contact
 Information
